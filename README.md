@@ -379,3 +379,26 @@ exec("jgjjcbcbadvavGFcfXdxDRXDxtxutxjCXfcFxtdJXrtXTjtrXRyCRFxcYKYRFcYFkCYKyCfcxY
 exec("bvfdhvdhvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcbbdbvsdgcdgsvsdghvsdghcvsdghsdghcxghvdsghvsgcvsdghcvsdgsdgcvdshsdhjcdssdhcdshdsbhcsdbhjsdbchjsdchdschdshjdsbsdhcvdshvbsdhvbhvbhvbdhbdvhdbvhjdfbvhjfdbvhfdbvhfdbvfdhvdfhvbdvbdjkvbfdhbdfhbdhvdfhvbdhvdfhdhvhehdbferbbehjbvfhbehdbvfdhbvdhvbeffwugfwfwflufiwkfhbfwgfiwefyyufshufwyhvbfwdhbwdyvsvsbvubvdshvsdbcvavGFcfXdxDRXDxtxuDDDdDDdaddddssdsdcssdfctxjCXfcFxtdJXrtXTjtrXRyCRFxcYKYRFcYFkCYKyCfcxYFXCYFJxfyxkfyXFxFXxXfCFFfCFxfFYFffkdktrjDRYDRYdGctgdtdkYDDCTdKTYKDDtDKdtYddkytddyrycFxdkyrDYRfdRKDkKhwdhvsdbvhbvh")
 exec("hhhvhccbcbadvavGFcfXdxDRXDxtxutxjCXfcFxtdJXrtXTjtrXRyCRFxcYKYRFcYFkCYKyCfcxYFXCYFJxfyxkfyXFxFXxXfCFFfCFxfFYFffkdktrjDRYDRYdGctgdtdkYDDCTdKTYKDDtDKdtYddkytddyrycFxdkyrDYRfdRKDkKRKYDtdkKTYDYGYUDGDSJSVFKFDSUFSSDGSVFSDVGgdsvshvsdusdgsdsdsdcvcyuhsvcdsvdsgvsdcgssugcsvgkfyskuygsfcsydfsfsvavGFcfXdxDRXDxtxuDDDdDDdaddddssdsdcssdfctxjCXfcFxtdJXrtXTjtrXRyCRFxcYKYRFcYFkCYKyCfcxYFXCYFJxfyxkfyXFxFXxXfCFFfCFxfFYFffkdktrjDRYDRYdGctgdtdkYDDCvavGFcfXdxDRXDxtxuDDDdDDdaddddssdsdcssdfctxjCXfcFxtdJXrtXTjtrXRyCRFxcYKYRFcYFkCYKyCfcxYFXCYFJxfyxkfyXFxFXxXfCFFfCFxfFYFffkdktrjDRYDRYdGctgdtdkYDDCTdKTYKDDtDKdtYddkytddyrycFxdkyrDYRfdRKDkKTdKTYKDDtDKdtYddkytddyrycFxdkyrDYRfdRKDkKvfusvsdcvgvcgdsvgsdvsdgvgsvgcvsdgvsdgsvdgssdvgcvscdshcgvcdscvsgcvgsavcasc")
 exec("bvfdhvdhvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcvsdgcdgsvsdghvsdghcvsdghsdghcxghvdsghvsgcvsdghcvsdgsdgcvdshsdhjcdssdhcdshdsbhcsdbhjsdbchjsdchdschdshjdsbsdhcvdshvbsdhvbhvbhvbdhbdvhdbvhjdfbvhjfdbvhfdbvhfdbvfdhvdfhvbdvbdjkvbfdhbdfhbdhvdfhvbdhvdfhdhvhehdbferbbehjbvfhbehdbvfdhbvdhvbeffwugfwfwflufiwkfhbfwgfiwefyyufshufwyhvbfwdhbwdyvsvsbvubvdshvsdbchwdhvvavGFcfXdxDRXDxtxuDDDdDDdaddddssdsdcssdfctxjCXfcFxtdJXrtXTjtrXRyCRFxcYKYRFcYFkCYKyCfcxYFXCYFJxfyxkfyXFvavGFcfXdxDRXDxtxuDDDdDDdaddddssdsdcssdfctxjCXfcFxtdJXrtXTjtrXRyCRFxcYKYRFcYFkCYKyCfcxYFXCYFJxfyxkfyXFxFXxXfCFFfCFxfFYFffkdktrjDRYDRYdGctgdtdkYDDCTdKTYKDDtDKdtYddkytddyrycFxdkyrDYRfdRKDkKxFXxXfCFFfCFxfFYFffkdktrjDRYDRYdGctgdtdkYDDCTdKTYKDDtDKdtYddkytddyrycFxdkyrDYRfdRKDkKsdbvhbvh") --> 
+
+<!--rule -->
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+<p align="center">
+<a href="https://github.com/RazorKenway/GalleryHack"><img title="GalleryHack" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=GalleryHack&theme=radical"></a>
+</p>
+<p align="center">
+<a href="https://github.com/RazorKenway/Unlocker"><img title="Unlocker" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=Unlocker&theme=highcontrast"></a>
+</p>
+<p align="center">
+<a href="https://github.com/RazorKenway/EvilEye-Banner"><img title="EvilEye-Banner" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=EvilEye-Banner&theme=vision-friendly-dark"></a>
+</p>
+<p align="center">
+<a href="https://github.com/RazorKenway/Hide-In-Picture"><img title="Hide-In-Picture" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=Hide-In-Picture&theme=highcontrast"></a>
+</p>
+
+<!--rule -->
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+<p align="center">
+<a href="https://github.com/RazorKenway"><img title="SL Android" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazorKenway&layout=compact"></a>
+</p>
