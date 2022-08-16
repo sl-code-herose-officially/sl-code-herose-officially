@@ -1,3 +1,6 @@
+
+- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+My+Git+Hub+Profile+)](https://git.io/typing-svg)
+
 ### Hi i'm , sl-code-herose-officially "hacker ys" (Sri Lanka 🇱🇰 )👋 &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="24px" width="24px">
 
 
