@@ -1,6 +1,8 @@
-<div align="center">🔴 "HACKER YS"
+<div align="center">🔴 HACKER YS
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2200&pause=700&color=FF1A1A&center=true&vCenter=true&width=850&lines=CYBERSECURITY+%7C+ICT+TECHNOLOGY;CODE+%7C+BUILD+%7C+BREAK+%7C+LEARN;JAVASCRIPT+%7C+LINUX+%7C+WEB;WELCOME+TO+THE+YS+SYSTEM" /><br><img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header"/>"SYSTEM STATUS: ONLINE" 🔴
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2200&pause=700&color=FF1A1A&center=true&vCenter=true&width=850&lines=CYBERSECURITY+%7C+ICT+TECHNOLOGY;CODE+%7C+BUILD+%7C+BREAK+%7C+LEARN;JAVASCRIPT+%7C+LINUX+%7C+WEB;WELCOME+TO+THE+YS+SYSTEM" /><br><img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header"/><br>🔴 SYSTEM STATUS: ONLINE 🔴
+
+<br><br>
 
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
@@ -17,6 +19,16 @@
 ╚══════════════════════════════════════════════════════════╝
 
 </div>---
+
+<div align="center">🩸 "> SYSTEM VISUAL"
+
+<br><video src="./fmc707.mp4" width="850" controls autoplay muted loop></video>
+
+<br><br>
+
+🔴 YS // CYBERSECURITY // SYSTEM ONLINE 🔴
+
+<br><img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=2&section=header"/></div>---
 
 🩸 "> WHOAMI"
 
@@ -40,7 +52,7 @@ $ status
 
 ⚡ "> ABOUT_ME"
 
-«I build. I learn. I experiment. I improve.»
+««I build. I learn. I experiment. I improve.»»
 
 I'm YS, a tech-focused developer exploring Cybersecurity, ICT, Linux, Web Development and Programming.
 
@@ -86,13 +98,11 @@ I'm YS, a tech-focused developer exploring Cybersecurity, ICT, Linux, Web Develo
 ██║        ██║   ███████╗███████╗
 ╚═╝        ╚═╝   ╚══════╝╚══════╝
 
-        RED NEON TERMINAL
+🔴 RED NEON TERMINAL
 
 Custom terminal environment focused on a dark cyberpunk / red-neon aesthetic.
 
-<a href="https://github.com/sl-code-herose-officially/YOMA-Termux-Theme">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
-</a></div>---
+<br><a href="https://github.com/sl-code-herose-officially/YOMA-Termux-Theme"><img src="https://img.shields.io/badge/VIEW_PROJECT-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a></div>---
 
 🧪 "> PROJECTS"
 
@@ -107,13 +117,13 @@ PROJECT| TYPE| STATUS
 
 🌐 "> GITHUB"
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sl-code-herose-officially&show_icons=true&hide_border=true&bg_color=050505&title_color=ff1a1a&icon_color=ff1a1a&text_color=ffffff&rank_icon=github" /><br><br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sl-code-herose-officially&show_icons=true&hide_border=true&bg_color=050505&title_color=ff1a1a&icon_color=ff1a1a&text_color=ffffff&rank_icon=github"/><br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sl-code-herose-officially&theme=dark&hide_border=true&background=050505&ring=ff1a1a&fire=ff1a1a&currStreakLabel=ff1a1a" /></div>---
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sl-code-herose-officially&theme=dark&hide_border=true&background=050505&ring=ff1a1a&fire=ff1a1a&currStreakLabel=ff1a1a"/></div>---
 
 🐍 "> CONTRIBUTION ACTIVITY"
 
-<div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /></div>---
+<div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/></div>---
 
 🖥️ "> TERMINAL"
 
@@ -157,11 +167,9 @@ It's the way I build my world.
 
 📡 "> CONNECT"
 
-<div align="center"><a href="https://github.com/sl-code-herose-officially">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</a><a href="https://github.com/sl-code-herose-officially/YOMA-Termux-Theme">
-<img src="https://img.shields.io/badge/YOMA%20TERMUX%20THEME-8B0000?style=for-the-badge&logo=linux&logoColor=ffffff"/>
-</a></div><br><div align="center">╔══════════════════════════════════════════════════╗
+<div align="center"><a href="https://github.com/sl-code-herose-officially"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ffffff"/></a><a href="https://github.com/sl-code-herose-officially/YOMA-Termux-Theme"><img src="https://img.shields.io/badge/YOMA%20TERMUX%20THEME-8B0000?style=for-the-badge&logo=linux&logoColor=ffffff"/></a><br><br>
+
+╔══════════════════════════════════════════════════╗
 ║                                                  ║
 ║        SYSTEM STATUS : ██████████ ONLINE        ║
 ║                                                  ║
