@@ -20,15 +20,31 @@
 
 </div>---
 
-<div align="center">🩸 "> SYSTEM VISUAL"
+---
 
-<br><video src="./fmc707.mp4" width="850" controls autoplay muted loop></video>
+<div align="center">
+
+## 🩸 "> SYSTEM VISUAL"
+
+<br>
+
+<a href="./fmc707.mp4">
+
+<img src="./video_first.jpg" width="850" alt="YS Cybersecurity System Video">
+
+</a>
 
 <br><br>
 
-🔴 YS // CYBERSECURITY // SYSTEM ONLINE 🔴
+🔴 **CLICK THE IMAGE TO WATCH THE SYSTEM VIDEO** 🔴
 
-<br><img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=2&section=header"/></div>---
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=2&section=header"/>
+
+</div>
+
+---
 
 🩸 "> WHOAMI"
 
